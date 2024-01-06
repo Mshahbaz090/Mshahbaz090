@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahbaz </h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-  <img align="right" alt="coding" width="400"
+  <img align="right" alt="coding" width="400" height="800"
         src="https://miro.medium.com/v2/resize:fit:1400/1*K_B9fk4OLex0SizoDAUC3w.jpeg">
 
 
