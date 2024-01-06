@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
   <img align="right" alt="coding" width="400"
-        src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fi-used-code-to-create-animation-heres-how-a7c7cd88fccd&psig=AOvVaw1JV2rLEM-nvd170Sp9-bWr&ust=1704628554899000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjQ0pDayIMDFQAAAAAdAAAAABAI">
+        src="https://miro.medium.com/v2/resize:fit:1400/1*K_B9fk4OLex0SizoDAUC3w.jpeg">
 
 
 
